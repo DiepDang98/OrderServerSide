@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Order Server</string>
+    <string name="slogan">Người yêu cũ của bạn trở mặt nhanh? Chúng tôi giao hàng còn nhanh hơn</string>
+    <string name="title_activity_home">Home</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
