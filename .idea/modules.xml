@@ -6,6 +6,8 @@
       <module fileurl="file://$PROJECT_DIR$/app/AndroidCafeServer-app.iml" filepath="$PROJECT_DIR$/app/AndroidCafeServer-app.iml" group="AndroidCafeServer/app" />
       <module fileurl="file://$PROJECT_DIR$/EatItCafe-master-AndroidCafeServer.iml" filepath="$PROJECT_DIR$/EatItCafe-master-AndroidCafeServer.iml" group="AndroidCafeServer" />
       <module fileurl="file://$PROJECT_DIR$/app/EatItCafe-master-AndroidCafeServer-app.iml" filepath="$PROJECT_DIR$/app/EatItCafe-master-AndroidCafeServer-app.iml" group="AndroidCafeServer/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/OrderServerSide.iml" filepath="$PROJECT_DIR$/.idea/modules/OrderServerSide.iml" group="OrderServerSide" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/OrderServerSide-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/OrderServerSide-app.iml" group="OrderServerSide/app" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

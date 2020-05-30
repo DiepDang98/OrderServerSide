@@ -1,42 +1,42 @@
 {
   "project_info": {
-    "project_number": "360357091696",
-    "firebase_url": "https://finalexam-819fc.firebaseio.com",
-    "project_id": "finalexam-819fc",
-    "storage_bucket": "finalexam-819fc.appspot.com"
+    "project_number": "414257281509",
+    "firebase_url": "https://diepdang-18bb1.firebaseio.com",
+    "project_id": "diepdang-18bb1",
+    "storage_bucket": "diepdang-18bb1.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:360357091696:android:aeb1749da1afc9a60e57b5",
+        "mobilesdk_app_id": "1:414257281509:android:784b8be0b4949d1eb8970c",
         "android_client_info": {
           "package_name": "com.example.darwis.androidcafeserver"
         }
       },
       "oauth_client": [
         {
-          "client_id": "360357091696-nr6jssnao0upppslck018o5chvtvn0v1.apps.googleusercontent.com",
+          "client_id": "414257281509-f09d7u2c5k1mb3tig8a90sk1m9i1a8mt.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.example.darwis.androidcafeserver",
-            "certificate_hash": "c422981bc35fce625b9203f524281876decd6452"
+            "certificate_hash": "6d11ec609ece1ce012717f6502cff453ba61bcfe"
           }
         },
         {
-          "client_id": "360357091696-6217ogvlqc541q7cnea11d7a10g12o99.apps.googleusercontent.com",
+          "client_id": "414257281509-m90trotfsi9lbafu3jir632ocug8pib9.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCuZlQL6tCSWtOZGw-n4cuR6oGQsSCdP20"
+          "current_key": "AIzaSyAkh88PdcPi2cKcqqknQnNPwEzFTugwtD8"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "360357091696-6217ogvlqc541q7cnea11d7a10g12o99.apps.googleusercontent.com",
+              "client_id": "414257281509-m90trotfsi9lbafu3jir632ocug8pib9.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
@@ -45,35 +45,35 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:360357091696:android:722a7cc43caa160a0e57b5",
+        "mobilesdk_app_id": "1:414257281509:android:8b87a0daf3dbaaabb8970c",
         "android_client_info": {
           "package_name": "com.example.orderfoodsapp"
         }
       },
       "oauth_client": [
         {
-          "client_id": "360357091696-76k2jchbsp3odo96pvdugqojsin2mvcq.apps.googleusercontent.com",
+          "client_id": "414257281509-8ju95tm3arglrmk00pco3rp29ed2utpe.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.example.orderfoodsapp",
-            "certificate_hash": "c422981bc35fce625b9203f524281876decd6452"
+            "certificate_hash": "6d11ec609ece1ce012717f6502cff453ba61bcfe"
           }
         },
         {
-          "client_id": "360357091696-6217ogvlqc541q7cnea11d7a10g12o99.apps.googleusercontent.com",
+          "client_id": "414257281509-m90trotfsi9lbafu3jir632ocug8pib9.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCuZlQL6tCSWtOZGw-n4cuR6oGQsSCdP20"
+          "current_key": "AIzaSyAkh88PdcPi2cKcqqknQnNPwEzFTugwtD8"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "360357091696-6217ogvlqc541q7cnea11d7a10g12o99.apps.googleusercontent.com",
+              "client_id": "414257281509-m90trotfsi9lbafu3jir632ocug8pib9.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
