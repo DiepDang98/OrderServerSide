@@ -1,9 +1,5 @@
 package com.example.darwis.androidcafeserver.Model;
 
-/**
- * Created by Darwis on 11/1/2018.
- */
-
 public class Order {
     private String ProductId;
     private String ProductName;

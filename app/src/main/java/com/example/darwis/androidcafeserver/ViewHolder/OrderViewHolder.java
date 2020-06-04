@@ -8,10 +8,6 @@ import android.widget.TextView;
 import com.example.darwis.androidcafeserver.Interface.ItemClickListener;
 import com.example.darwis.androidcafeserver.R;
 
-/**
- * Created by Darwis on 11/1/2018.
- */
-
 public class OrderViewHolder extends RecyclerView.ViewHolder implements View.OnClickListener, View.OnCreateContextMenuListener{
 
     public TextView txtOrderId,txtOrderStatus,txtOrderPhone,txtOrderAddress;

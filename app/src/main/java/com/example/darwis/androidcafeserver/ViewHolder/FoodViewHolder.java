@@ -10,10 +10,6 @@ import com.example.darwis.androidcafeserver.Common.Common;
 import com.example.darwis.androidcafeserver.Interface.ItemClickListener;
 import com.example.darwis.androidcafeserver.R;
 
-/**
- * Created by Darwis on 10/28/2018.
- */
-
 public class FoodViewHolder extends RecyclerView.ViewHolder implements View.OnClickListener,
         View.OnCreateContextMenuListener
 {

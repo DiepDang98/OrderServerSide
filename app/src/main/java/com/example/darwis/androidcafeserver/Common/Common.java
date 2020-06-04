@@ -2,10 +2,6 @@ package com.example.darwis.androidcafeserver.Common;
 
 import com.example.darwis.androidcafeserver.Model.User;
 
-/**
- * Created by Darwis on 10/16/2018.
- */
-
 public class Common {
     public static User currentUser;
 

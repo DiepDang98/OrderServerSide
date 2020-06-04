@@ -2,17 +2,13 @@ package com.example.darwis.androidcafeserver.Model;
 
 import java.util.List;
 
-/**
- * Created by Darwis on 11/1/2018.
- */
-
 public class Request {
     private String phone;
     private String name;
     private String address;
     private String total;
     private String status;
-    private List<Order> foods; //list makanan yang di order
+    private List<Order> foods;
 
     public Request() {
     }

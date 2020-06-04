@@ -1,9 +1,5 @@
 package com.example.darwis.androidcafeserver.Model;
 
-/**
- * Created by Darwis on 10/16/2018.
- */
-
 public class Category {
     private String Name;
     private String Image;

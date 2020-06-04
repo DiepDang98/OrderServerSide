@@ -77,7 +77,7 @@ public class SignIn extends AppCompatActivity {
                         Toast.makeText(SignIn.this, "Đăng nhập với quyền admin", Toast.LENGTH_SHORT).show();
                 } else {
                     mDialog.dismiss();
-                    Toast.makeText(SignIn.this, "Khoog có dữ liệu", Toast.LENGTH_SHORT).show();
+                    Toast.makeText(SignIn.this, "Không có dữ liệu", Toast.LENGTH_SHORT).show();
                 }
             }
 

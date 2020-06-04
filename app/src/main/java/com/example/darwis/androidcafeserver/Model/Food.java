@@ -1,9 +1,5 @@
 package com.example.darwis.androidcafeserver.Model;
 
-/**
- * Created by Darwis on 10/28/2018.
- */
-
 public class Food {
     private String Name,Image,Description,Price,Discount,MenuId;
 

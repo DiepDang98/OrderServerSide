@@ -28,7 +28,6 @@ import android.widget.Toast;
 import com.example.darwis.androidcafeserver.Common.Common;
 import com.example.darwis.androidcafeserver.Interface.ItemClickListener;
 import com.example.darwis.androidcafeserver.Model.Category;
-import com.example.darwis.androidcafeserver.Model.Order;
 import com.example.darwis.androidcafeserver.ViewHolder.MenuViewHolder;
 import com.firebase.ui.database.FirebaseRecyclerAdapter;
 import com.google.android.gms.tasks.OnFailureListener;
